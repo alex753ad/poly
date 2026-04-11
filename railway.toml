@@ -2,6 +2,6 @@
 builder = "nixpacks"
 
 [deploy]
-startCommand = "python polymarket_weather_tracker.py"
+startCommand = "python upload_server.py"
 restartPolicyType = "always"
 restartPolicyMaxRetries = 10
