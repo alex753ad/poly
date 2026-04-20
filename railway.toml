@@ -2,6 +2,6 @@
 builder = "nixpacks"
 
 [deploy]
-startCommand = "startCommand = "python upload_server.py"
+startCommand = "python upload_server.py"
 restartPolicyType = "always"
 restartPolicyMaxRetries = 10
