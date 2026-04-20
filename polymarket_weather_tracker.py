@@ -91,7 +91,7 @@ STATION_FORECAST_ERRORS: dict = {
 # С адаптивным порогом большинство из них автоматически получат высокий порог,
 # но явный блеклист даёт дополнительную защиту.
 BLACKLISTED_CITIES = {
-    "Seoul", "Toronto", "Seattle", "Madrid", "Los Angeles", "Shanghai",
+    "Seoul", "Toronto", "Seattle", "Madrid", "Los Angeles", "Shanghai", "Warsaw", "San Francisco",
 }
 
 # ─────────────────────────────────────────────
